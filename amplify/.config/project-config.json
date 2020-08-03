@@ -1,0 +1,17 @@
+{
+    "projectName": "sumeriantest",
+    "version": "3.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "react",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "build",
+            "BuildCommand": "yarn.cmd run-script build",
+            "StartCommand": "yarn.cmd run-script start"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}

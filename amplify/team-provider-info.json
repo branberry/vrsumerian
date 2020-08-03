@@ -1,0 +1,28 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-sumeriantest-dev-171523-authRole",
+            "UnauthRoleArn": "arn:aws:iam::842234083685:role/amplify-sumeriantest-dev-171523-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::842234083685:role/amplify-sumeriantest-dev-171523-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-sumeriantest-dev-171523-deployment",
+            "UnauthRoleName": "amplify-sumeriantest-dev-171523-unauthRole",
+            "StackName": "amplify-sumeriantest-dev-171523",
+            "StackId": "arn:aws:cloudformation:us-east-1:842234083685:stack/amplify-sumeriantest-dev-171523/d45d66b0-d5d6-11ea-b064-12602f672e4f",
+            "AmplifyAppId": "dsgafdt3e3b6u"
+        },
+        "categories": {
+            "auth": {
+                "cognito756ae657": {}
+            },
+            "xr": {
+                "test": {
+                    "url": "https://sumerian.us-east-1.amazonaws.com/20180801/projects/Drafts/release/authTokens?sceneId=819286cfc36741e18cd8b466a35a7faa.scene",
+                    "sceneId": "819286cfc36741e18cd8b466a35a7faa.scene",
+                    "region": "us-east-1",
+                    "projectName": "Drafts"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "auth": {
+        "cognito756ae657": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": []
+        }
+    },
+    "xr": {
+        "test": {
+            "service": "Sumerian",
+            "providerPlugin": "awscloudformation"
+        }
+    }
+}

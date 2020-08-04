@@ -22,6 +22,12 @@
                     "region": "us-east-1",
                     "projectName": "Drafts"
                 }
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dsgafdt3e3b6u",
+                    "type": "cicd"
+                }
             }
         }
     }

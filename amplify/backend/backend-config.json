@@ -11,5 +11,11 @@
             "service": "Sumerian",
             "providerPlugin": "awscloudformation"
         }
+    },
+    "hosting": {
+        "amplifyhosting": {
+            "service": "amplifyhosting",
+            "type": "cicd"
+        }
     }
 }
